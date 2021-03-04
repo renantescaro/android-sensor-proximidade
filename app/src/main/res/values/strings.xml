@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sensor de proximidade</string>
+
+    <string name="txv_longe">Longe</string>
+    <string name="txv_perto">Perto</string>
+
+    <string name="txv_sensor">0.0</string>
+</resources>
